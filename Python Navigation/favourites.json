@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Home",
+    "lat": -31.9505,
+    "lon": 115.8605,
+    "aliases": ["house", "casa", "base"],
+    "note": "Front gate"
+  },
+  {
+    "name": "Work",
+    "lat": -31.9523,
+    "lon": 115.8613,
+    "aliases": ["office", "shop"],
+    "note": ""
+  },
+  {
+    "name": "Fremantle",
+    "lat": -32.0569,
+    "lon": 115.7439,
+    "aliases": ["freo"],
+    "note": "Coffee at Bread in Common"
+  }
+]
